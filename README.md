@@ -6,8 +6,9 @@ In this session, you'll learn techniques that experts use to improve their secur
 
 ## Slides:
 
-[PPT](NDC London 2025 - Securing cloud apps with identity and private networking.pptx)
-[PDF](NDC London 2025 - Securing cloud apps with identity and private networking.pdf)
+[PPT](./NDC%20London%202025%20-%20Securing%20cloud%20apps%20with%20identity%20and%20private%20networking.pptx)
+
+[PDF](./NDC%20London%202025%20-%20Securing%20cloud%20apps%20with%20identity%20and%20private%20networking.pdf)
 
 ## Code:
 
